@@ -1,7 +1,6 @@
 // Raúl Armando Vélez Robles - A01782488
 // cGame.cpp
 // Game methods are established, this is where everything comes together 
-
 #pragma once
 #include "cGame.h"
 
